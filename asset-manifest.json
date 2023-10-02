@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/999SHREYA/React-Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/999SHREYA/React-Portfolio/static/js/main.afc63dcd.js",
+    "static/media/HeroImage.jpg": "/999SHREYA/React-Portfolio/static/media/HeroImage.157d509c6b51b6e93b13.jpg",
+    "index.html": "/999SHREYA/React-Portfolio/index.html",
+    "main.bf538fe7.css.map": "/999SHREYA/React-Portfolio/static/css/main.bf538fe7.css.map",
+    "main.afc63dcd.js.map": "/999SHREYA/React-Portfolio/static/js/main.afc63dcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.afc63dcd.js"
+  ]
+}
